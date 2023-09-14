@@ -1,4 +1,4 @@
 ## Name: Sourav Banerjee
 ## Position: Associate Data Scientist
-## Company: CogniTensr
+## Company: CogniTensor
 ## Team: Data Science
